@@ -1,2 +1,2 @@
 # Coffee Website
-Coffee Shop Website Design in HTMl & CSS.
+Coffee Shop Website Design in HTML & CSS.
